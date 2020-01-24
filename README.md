@@ -2,6 +2,11 @@
 
 <h2>Introduction</h2>
 <p>
+Due: End of Day Friday, 01/31, 11:59 pm
+</p>
+
+<h2>Introduction</h2>
+<p>
   In this lab you will solve two short problems as a way to familiarize
   yourself with the Go programming language. We expect you to already have a
   basic knowledge of the language. If you're starting from nothing, we highly
@@ -50,6 +55,9 @@
   ok      /path/to/lab0   0.009s
 </pre>
 
+<p>
+Please post questions on <a href="piazza.com/gmu/spring2020/cs675/home">Piazza</a>.
+
 ### Point Distribution
 
 <table>
@@ -64,7 +72,20 @@
 
 <h2>Submitting Lab 0</h2>
 
-TBD
+<p>
+Now you need to submit your Lab 0. Commit your change and push it to the remote repository. 
+And then, you will create a tar ball that contains all the code src
+files for Lab 0 by doing the following:
+
+<pre>
+$ tar -czf  cs675_gid_lab0.tar.gz lab0
+</pre>
+
+<p>
+Obviously, replace <tt>gid</tt> with your G#.   You will submit your
+lab assignment in BlackBoard. The submission will consist of a properly
+tar'd and compressed (gunzipped) file of your <tt>lab0</tt>
+directory. Follow the instructions above. 
 
 <h2>Acknowledgements</h2>
 <p>This assignment is adapted from Princeton's COS418 course. Thanks
