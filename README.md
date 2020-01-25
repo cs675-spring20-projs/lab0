@@ -84,7 +84,7 @@ $ tar -czf  cs675_gid_lab0.tar.gz lab0
 <p>
 Obviously, replace <tt>gid</tt> with your G#.   You will submit your
 lab assignment in BlackBoard. The submission will consist of a properly
-tar'd and compressed (gunzipped) file of your <tt>lab0</tt>
+tar'd and compressed (gnuzipped) file of your <tt>lab0</tt>
 directory. Follow the instructions above. 
 
 <h2>Acknowledgements</h2>
