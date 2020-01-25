@@ -74,7 +74,7 @@ Please post questions on <a href="piazza.com/gmu/spring2020/cs675/home">Piazza</
 
 <p>
 Now you need to submit your Lab 0. Commit your change and push it to the remote repository. 
-And then, you will create a tar ball that contains all the code src
+And then, you will create a tar ball that contains all the src
 files for Lab 0 by doing the following:
 
 <pre>
