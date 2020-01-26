@@ -1,6 +1,6 @@
 # CS 675 Lab 0: Intro to Go
 
-<h2>Introduction</h2>
+<h2>Important Date</h2>
 <p>
 Due: End of Day Friday, 01/31, 11:59 pm
 </p>
